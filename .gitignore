@@ -1,0 +1,19 @@
+# Arduino IDE (артефакты сборки)
+build/
+*.hex
+*.elf
+*.eep
+*.o
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+platformio.ini.bak
+
+# Среды и ОС
+.mimosa/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
